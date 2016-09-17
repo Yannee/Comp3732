@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    
+    background-color: #a9a9a9;
+
+}
+
+h1 {
+    color: #4CAF50;
+    margin-left: 20px;
+}
+.centeredImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

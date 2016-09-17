@@ -1,0 +1,67 @@
+﻿/* 
+    Document   : style
+    Created on : Aug 12, 2012, 11:23:48 AM
+    Author     : Romana
+    Description: ECS Assignment
+    Modified by: John Jiannis
+*/
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    
+    background-color: #a9a9a9;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: red; 
+    font-weight: normal;
+    width: 100%; 
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
+.centeredImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
